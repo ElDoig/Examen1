@@ -1,0 +1,61 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial,  sans-serif;
+    font-size: 30px;
+    
+}
+
+
+main aside{
+    border-right: solid gray 2px;
+    padding-right: 30px;
+    
+}
+
+
+main aside ul{
+    list-style-type: none;
+    display: flex;
+    
+    
+}
+
+main section{
+    margin-left: 30px;
+    padding: auto;
+    width: auto;
+}
+
+article{
+    border: solid gray 2px;
+    padding: 20px;
+    margin:20px;
+    text-align: center;
+
+    
+}
+h1{
+    text-align: center;
+}
+button{
+    font-size: 30px;
+}
+
+
+article img{
+    width: auto;
+    height: 330px;
+
+}
+
+.ContenedorJuegos{
+    display: flex;
+  
+   
+}
+button{
+    background-color: royalblue;
+    color: white;   
+    
+}
